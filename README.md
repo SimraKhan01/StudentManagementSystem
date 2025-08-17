@@ -21,3 +21,7 @@ The project was created as part of my Computer Engineering diploma to practice P
 2. Run the script in your terminal/IDE:  
    ```bash
    python student_management.py
+## Output Screenshots
+
+![Output 1](output1.png)
+![Output 2](output2.png)
